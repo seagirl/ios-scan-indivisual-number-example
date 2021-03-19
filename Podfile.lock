@@ -1,0 +1,22 @@
+PODS:
+  - TRETJapanNFCReader (2.0.0)
+
+DEPENDENCIES:
+  - TRETJapanNFCReader (from `https://github.com/treastrain/TRETJapanNFCReader`, branch `master`)
+
+EXTERNAL SOURCES:
+  TRETJapanNFCReader:
+    :branch: master
+    :git: https://github.com/treastrain/TRETJapanNFCReader
+
+CHECKOUT OPTIONS:
+  TRETJapanNFCReader:
+    :commit: 1462328365d5a863c3098c55718760735f8d5a37
+    :git: https://github.com/treastrain/TRETJapanNFCReader
+
+SPEC CHECKSUMS:
+  TRETJapanNFCReader: 83a680fc40b5a5b04876b14fd1134406daf2c88a
+
+PODFILE CHECKSUM: d2c39291fe4ab59f20fe46d2408f22d1603d57bf
+
+COCOAPODS: 1.9.1
